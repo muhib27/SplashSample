@@ -20,4 +20,4 @@ import Splash from './component/Splash'
 //         return mainScreen
 //     }
 // }
-AppRegistry.registerComponent('SplashSample', () => Splash);
+AppRegistry.registerComponent('SplashSample', () => App);
